@@ -2,12 +2,12 @@
 #include <iostream>
 
 
-MyClass::MyClass(void)
+MyClass::MyClass()
 {
 }
 
 
-MyClass::~MyClass(void)
+MyClass::~MyClass()
 {
 }
 

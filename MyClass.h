@@ -5,7 +5,7 @@ class MyClass
 public:
 	MyClass(int a = 0) : x(a)
 	{}
-	~MyClass(void);
+	~MyClass();
 	void show();
 	
 };
