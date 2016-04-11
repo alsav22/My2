@@ -8,7 +8,7 @@ int main()
 	MyClass obj1(1);
 	MyClass obj2(2);
 	MyClass obj3(3);
-
+	std::cout << "Done!" << std::endl;
 	
 	system("pause");
 	return 0;
