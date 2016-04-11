@@ -1,12 +1,6 @@
 #include "MyClass.h"
 #include <iostream>
 
-
-MyClass::MyClass()
-{
-}
-
-
 MyClass::~MyClass()
 {
 }
